@@ -1,9 +1,12 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Livingston C. Uzoma
+<a href="https://www.linkedin.com/in/livingstonuzoma/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am a Texas Tech Undergraduate Senior with a profound interest in technology and a dedication to solving complex problems. 
+
+Livingston's journey exemplifies the fusion of hard work, determination, attentiveness, and tech-savviness, making him a valuable asset in any endeavor.
+A driven and industrious individual who entered the workforce early then most peers. Despite the early start, has consistently displayed determination and leadership qualities. As a natural team leader, he believes respect is earned through a responsible and respectful demeanor. With a strong inclination towards technology, he believes that adding a modern edge to any approach makes him adept at navigating digital landscapes.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
