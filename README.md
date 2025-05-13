@@ -3,7 +3,7 @@
 
 
 
-I am a Texas Tech Undergraduate Senior with a profound interest in technology and a dedication to solving complex problems. 
+I am a Texas Tech Undergraduate Senior with a profound interest in technology security and a dedication to solving complex problems. 
 
 Livingston's journey exemplifies the fusion of hard work, determination, attentiveness, and tech-savviness, making him a valuable asset in any endeavor.
 A driven and industrious individual who entered the workforce early then most peers. Despite the early start, has consistently displayed determination and leadership qualities. As a natural team leader, he believes respect is earned through a responsible and respectful demeanor. With a strong inclination towards technology, he believes that adding a modern edge to any approach makes him adept at navigating digital landscapes.
@@ -18,12 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
